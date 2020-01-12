@@ -58,6 +58,7 @@
      <Compile Include="Assets\BayatGames\Free Platform Game Assets\Character\Movement.cs" />
      <Compile Include="Assets\CameraMovement.cs" />
      <Compile Include="Assets\GroundChecker.cs" />
+     <Compile Include="Assets\Timer.cs" />
      <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Frank Yang/Desktop/Projects/Unity Games/Cache-Simulator/Cache Maker/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
